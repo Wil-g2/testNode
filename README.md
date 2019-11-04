@@ -12,8 +12,8 @@ Obs.: É necessário antes de instalar este projeto, ter instalado e rodando nod
 Para instalá-lo em sua máquina faça os comandos a seguir:
 
 ``` bash
-  https://github.com/Wil-g2/test-node.git
-  cd test-node
+  git clone https://github.com/Wil-g2/testNode.git
+  cd testNode
   yarn install
   yarn start
 ```
